@@ -197,4 +197,4 @@ This repository serves as the official landing page for NATOkit. The software is
 **Get the most recent version of NATOkit today!**
 
 ---
-**Last updated:** 2026-11-07 19:48:27 UTC
+**Last updated:** 2026-11-07 23:21:27 UTC
